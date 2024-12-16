@@ -11,8 +11,6 @@ node_modules
 npm-debug.log
 
 # Docker files
-Dockerfile
-docker-compose.yml
 .dockerignore
 
 # Other

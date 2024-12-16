@@ -8,6 +8,4 @@ node_modules/
 *.log 
 
 # Docker Files
-Dockerfile
-docker-compose.yml
 discord-bot.tar
