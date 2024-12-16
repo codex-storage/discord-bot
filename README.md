@@ -44,22 +44,3 @@ npm install
 ```bash
 node index.js
 ```
-
-## Docker Image Distribution
-
-To share the Docker image:
-
-1. Build the image:
-```bash
-docker build -t discord-bot .
-```
-
-2. Save the image to a file:
-```bash
-docker save discord-bot > discord-bot.tar
-```
-
-3. Share the `discord-bot.tar` file with others. They can load it using:
-```bash
-docker load < discord-bot.tar
-``` 
