@@ -1,0 +1,13 @@
+# Environment variables
+.env
+
+# Node modules
+node_modules/
+
+# Logs
+*.log 
+
+# Docker Files
+Dockerfile
+docker-compose.yml
+discord-bot.tar
