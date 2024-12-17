@@ -10,7 +10,7 @@ on:
         required: false
         type: string
       docker_repo:
-        default: codexstorage/discord-bot
+        default: codexstorage/testnet-bot
         description: DockerHub repository
         required: false
         type: string
