@@ -11,11 +11,8 @@ on:
       - '**/*.md'
       - '.gitignore'
       - '.dockerignore'
-      - 'docker/**'
-      - '!docker/Dockerfile'
       - '.github/**'
       - '!.github/workflows/docker.yml'
-      - '!.github/workflows/docker-reusable.yml'
       - 'LICENSE-*'
   workflow_dispatch:
 
